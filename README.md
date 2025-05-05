@@ -16,4 +16,4 @@ Make sure you have Java 17 installed.
 
 ```bash
 javac *.java
-java RumourSimulation
+java Main
