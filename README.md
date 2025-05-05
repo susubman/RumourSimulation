@@ -4,9 +4,10 @@ A Java-based simulation that models the spread of fake news or rumours across a 
 
 ## 📁 Files
 
+- `Main.java` - Entry point of the simulation
 - `Network.java` - Handles the structure and logic of the social network.
 - `Person.java` - Represents individuals in the network with behaviour for spreading or resisting rumours.
-- `RumourSimulation.java` - Main class to run and control the simulation.
+- `RumourSimulation.java` - Controls and runs the simumlation.
 - `Stats.java` - Collects and displays statistics from each simulation run.
 
 ## 🚀 How to Run
